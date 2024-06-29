@@ -5,4 +5,4 @@ This project implements a Time protocol server based on [RFC 868](https://www.rf
 
 ## Overview
 
-The Time protocol, defined in RFC 868, allows clients to retrieve a specific time from a server over a TCP or UDP connection. This project provides a server implementation that adheres to this protocol, enabling clients to query and receive accurate time information.
+The Time protocol, defined in RFC 868, allows clients to retrieve the current time from a server over a TCP or UDP connection. This project provides a server implementation that adheres to this protocol, enabling clients to query and receive accurate time information.
